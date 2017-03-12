@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tugas1;
+package modul3.tugas;
 
 /**
  *
  * @author Bambang
  */
-public class Tugas1 {
+public class Modul3Tugas {
 
     /**
      * @param args the command line arguments
